@@ -10,7 +10,9 @@ Software Developer! ⌨️
 Desarrollar aplicativos tipo web, utilizando herramientas, metodologías y lenguajes de programacion requeridos por el entorno productivo, demostrando respeto, orden y creatividad en su desempeño.
 
 ## Experiencia Laboral
-
+- WebMaster (Universidad San Buenaventura)
+- WebMaster (Turicasa.co)
+- WebMaster (DocumentoDigital)
 
 ## Conocimientos
 #### Editor de codigo & IDE
